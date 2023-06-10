@@ -7,13 +7,15 @@ import {
 import { Container } from "../style/Container.styled.jsx";
 import { Button } from "../style/Button.styled.jsx";
 import { Flex } from "../style/Flex.styled.jsx";
+import LogoFoto from "../assets/logo.svg"
+import HeaderFoto from "../assets/illustration-mockups.svg"
 
 export default function Header() {
   return (
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src="../assets/logo.svg" alt="Logo" />
+          <Logo src={LogoFoto} alt="Logo" />
           <Button>Try It Free</Button>
         </Nav>
         <Flex>
@@ -30,7 +32,7 @@ export default function Header() {
               Get Started For Free
             </Button>
           </div>
-          <Image src="../assets/illustration-mockups.svg" alt="HeaderImage" />
+          <Image src={HeaderFoto} alt="HeaderImage" />
         </Flex>
       </Container>
     </StyledHeader>

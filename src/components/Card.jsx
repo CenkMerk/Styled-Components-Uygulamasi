@@ -8,7 +8,7 @@ const Card = ({ item: { id, title, body, image } }) => {
         <p>{body}</p>
       </div>
       <div>
-        <img src={`../assets/${image}`} alt="CardImage" />   
+        <img src={image.type} alt="CardImage" />   
       </div>
     </StyledCard>
   );
