@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/Styled-Components-Uygulamasi/static/js/main.587fea40.js",
+    "main.js": "/Styled-Components-Uygulamasi/static/js/main.bd6148e1.js",
+    "static/media/illustration-flowing-conversation.svg": "/Styled-Components-Uygulamasi/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/Styled-Components-Uygulamasi/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/Styled-Components-Uygulamasi/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/logo.svg": "/Styled-Components-Uygulamasi/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/illustration-mockups.svg": "/Styled-Components-Uygulamasi/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
     "index.html": "/Styled-Components-Uygulamasi/index.html",
-    "main.587fea40.js.map": "/Styled-Components-Uygulamasi/static/js/main.587fea40.js.map"
+    "main.bd6148e1.js.map": "/Styled-Components-Uygulamasi/static/js/main.bd6148e1.js.map"
   },
   "entrypoints": [
-    "static/js/main.587fea40.js"
+    "static/js/main.bd6148e1.js"
   ]
 }
